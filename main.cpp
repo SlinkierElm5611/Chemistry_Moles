@@ -306,5 +306,4 @@ int main() {
         std::cin>>numberOfParticles;
         std::cout<<weight(numberOfParticles, formula)<<std::endl;
     }
-    system("pause");
 }
